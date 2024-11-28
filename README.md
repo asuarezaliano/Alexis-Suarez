@@ -78,41 +78,30 @@ More info at the project
 
 ## Professional Experience
 
+### Eron International
+
+**Corporate Website** | [Website](https://eroninternational.com/)
+
+Eron is a fintech company that provides an end-to-end solution for billing and payment processes. As a Senior Developer, I'm accustomed to being part of the entire ticket flow, from its creation and discussions with Product Owners through development to deployment. I'm part of the credit card team, where I develop features related to this payment method, such as installment configurations, anticipation fees, and user data management across different projects.
+Our work spans across three main projects:
+• The Control Panel for our clients, where they can view all payment-related data from their users and set different configurations
+• The Admin Panel for internal use, where we can manage all our clients and set various configurations
+• The Payment Gateway, which is the platform where end users make their payments I've also created SDKs to enable seamless client integration with the payment gateway, and developed component libraries to enhance efficiency and consistency across projects.
+
 ### Merov Marketplace
 
-**Cryptocurrency Trading Platform** | [Website](https://market.merov.io/)
+**Multi-currency Marketplace** | [Website](https://market.merov.io/)
 
-Contributed to the development of a cryptocurrency-focused marketplace, implementing:
-
-- Secure trading features
-- User authentication
-- Real-time price updates
-- Wallet integration
-- Transaction management
+Merov is a multi-currency marketplace specializing in crypto mining equipment, with cryptocurrency as the primary payment method. I was one of two developers in the founding team, responsible for developing the first version of both the marketplace and admin control panel. Our tech stack included Next.js with TypeScript, Redux for state management, styled-components for styling, Storybook for component documentation, and Jest for unit testing. We implemented Auth0 for user authentication.
+As the platform grew, so did our team, and my role evolved into a full-stack position. In this capacity, I worked on developing a ticketing system, building both the frontend and backend components. The backend was built using NestJS, with Prisma as our ORM, and MySQL as our database.
+As one of the earliest members of the startup, my responsibilities extended beyond traditional development. Since we operated without a dedicated UX/UI team initially, we were responsible for designing and implementing user interfaces from scratch. This experience enhanced my understanding of user experience principles and allowed me to develop creative problem-solving skills in interface design.
 
 ### Goldfarb Marketplace
 
 **E-commerce Development** | [Website](https://www.goldfarb.com.uy/)
 
-Contributed to the development of various features for this established e-commerce platform, including:
-
-- Product catalog management
-- Shopping cart functionality
-- Payment integration
-- User authentication
-- Responsive design implementation
-
-### Eron International
-
-**Corporate Website** | [Website](https://eroninternational.com/)
-
-Led the development of a modern corporate website showcasing:
-
-- Clean, professional design
-- Responsive layouts
-- Performance optimization
-- SEO best practices
-- Modern animation effects
+Contributed to the development of various features for this established e-commerce platform.
+Goldfarb is a marketplace for work tools. I developed a flexible promotion system using encapsulated and reusable components, facilitating easy addition of new promotion types. Additionally, I contributed to bug fixing and overall marketplace improvement.
 
 ## Technical Skills
 
@@ -129,4 +118,4 @@ Led the development of a modern corporate website showcasing:
 
 Feel free to reach out to me for any opportunities or collaborations!
 
-[LinkedIn](https://www.linkedin.com/in/alexissuarezaliano/) | [Email](mailto:alesuarezaliano@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/alexissuarezaliano/) | [Email](mailto:alesuarezaliano@gmail.com) | [Resume (PDF)](ALEXIS%20SUÁREZ.pdf)
