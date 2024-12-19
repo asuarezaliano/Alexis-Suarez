@@ -33,15 +33,24 @@ More info at the project
 
 A sophisticated marketplace built using microservices architecture with NestJS, featuring:
 
+1. client-gateway: a gateway service that acts as a single entry point for all incoming requests, handling authentication, authorization, and routing to the appropriate service.
+2. products: manages product-related operations.
+3. orders: handles order processing and management.
+4. payments: manages payment transactions.
+5. auth: responsible for authentication, using bcrypt and nest/jwt for security.
+
 - Microservices architecture
 - Service discovery
-- Event-driven communication
+- Event-driven communication using NATS
 - Scalable infrastructure
 - Distributed system patterns
+- Testing with Jest
+- Object validation with class-validator and class-transformer
+- Exception handling with RpcException, captured by the gateway
 
 More info at the project
 
-**Tech Stack:** NestJS, TypeScript, MongoDB, RabbitMQ
+**Tech Stack:** NestJS, TypeScript, Nats
 
 ### 🔄 Express REST API
 
