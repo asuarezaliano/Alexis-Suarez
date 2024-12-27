@@ -27,6 +27,25 @@ More info at the project
 
 **Tech Stack:** Next.js 14, TypeScript, GraphQL,Zustand , SCSS
 
+### 🏪 Task Master
+
+**Modern Task Manager** | [Repository](https://github.com/asuarezaliano/Task-Master)
+
+A sophisticated task management application built with modern web technologies, featuring:
+
+- Intuitive and accessible user interface with Shadcn UI components
+- Responsive design powered by Tailwind CSS
+- Type-safe form handling with React Hook Form and Zod validation
+- Efficient state management and API integration
+- Component-driven development with Storybook documentation
+- Comprehensive testing suite using Jest and React Testing Library
+- AI-generated brand identity with Logo AI
+- Clean and maintainable codebase with TypeScript and ESLint
+
+More info at the project
+
+**Tech Stack:** Next.js 14, TypeScript, Tailwind CSS, Shadcn UI, React Hook Form, Zod, Storybook, Jest
+
 ### 🏪 NestJS Microservices Marketplace
 
 **Enterprise-grade E-commerce Platform** | [Organization](https://github.com/Nest-Microservices-A)
