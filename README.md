@@ -8,6 +8,83 @@ responsible, and hardworking professional who is constantly learning. Recently, 
 emerging technologies, especially AI, which has enhanced my productivity as a developer and opened new paths for
 growth. This expertise allows me to quickly develop complex features with high efficiency.
 
+## Professional Experience
+
+### D24  -  Eron International
+
+**Corporate Website** | [Website](https://eroninternational.com/)
+
+SR FULLSTACK 
+
+Eron is a fintech company that provides an end-to-end solution for billing and payment processes.As a Senior Developer at Eron, I specialize in payment solutions and lead the credit card team, developing key features
+for payment processing and creating SDKs for gateway integration.
+Currently, I lead two strategic fintech initiatives as the principal full-stack developer:
+
+Cryptocurrency On/Off-Ramp Solution
+• Leading development of fiat-to-crypto and crypto-to-fiat conversion system integrated with third-party financial APIs
+• Building secure transaction workflows with compliance checks and user interfaces for transaction management
+• Implementing administrative dashboards for transaction monitoring and comprehensive audit logging
+• Optimizing API communication and error handling for reliable financial operations
+
+Secure Wallet Management System
+• Architecting virtual wallet infrastructure for client asset management with internal transaction engine
+• Integrating with third-party custody APIs while maintaining independent transaction records in our database
+• Implementing JWT/Passport authentication and configuring AWS infrastructure (EC2, RDS) with VPN connectivity
+• Developing real-time balance reconciliation
+• Creating administrative interfaces for customer support and transaction management
+
+### Merov Marketplace
+
+**Multi-currency Marketplace** | [Website](https://market.merov.io/)
+
+SEMI SR FULL STACK
+
+Merov is a multi-currency marketplace where I work as a full-stack developer. I developed the first version of the web
+platform and backoffice, contributing significantly to both frontend and backend architecture.
+Frontend Development
+I designed and implemented critical user interface components including:
+- Responsive product listing pages with advanced filtering and sorting capabilities
+- Detailed product views with multi-currency pricing display
+- Authentication middleware to verify user sessions and manage protected routes
+- Comprehensive user profile dashboards with transaction history and account management
+- Shopping cart and checkout flow with real-time currency conversion
+  
+Backoffice
+- Centralized dashboard with critical business metrics and KPIs
+- User management interface with detailed customer activity visualizations
+- Sales analytics panels with real-time data across multiple currencies
+- Order tracking system with status monitoring and management tools
+- Custom reporting tools allowing administrators to generate insights on merchant performance
+- Role-based interface that adapts displayed information based on admin permissions
+  
+Backend Architecture
+I participated in building a robust backend infrastructure through:
+- Microservices architecture using NATS for service-to-service communication
+- Authentication system implementation with JWT and Passport.js integrated with Auth0
+- RESTful API development for marketplace operations including listings, orders, and payments
+- Multi-step transaction processing with state management and security validations
+- Secure escrow system for marketplace purchases with automated release conditions
+- Webhook integration system for real-time notifications throughout the platform
+- Caching layer implementation that reduced database load and improved response times
+
+### Goldfarb Marketplace
+
+**E-commerce Development** | [Website](https://www.goldfarb.com.uy/)
+
+Contributed to the development of various features for this established e-commerce platform.
+Goldfarb is a marketplace for work tools. I developed a flexible promotion system using encapsulated and reusable components, facilitating easy addition of new promotion types. Additionally, I contributed to bug fixing and overall marketplace improvement.
+
+## Technical Skills
+
+- **Frontend:** React, Next.js, TypeScript, Vite, Styled Components, Tailwind CSS, Storybook, Redux, Zustand, GraphQL, Auth0
+- **Backend:** Node.js, NestJS,  Express , Prisma, Typescript, JWT, Nats, Passaport, Mysql Postgress, MongoDB, WebSockets, Caching Data
+- **Databases:** MySQL, MongoDB, PostgreSQL
+- **DevOps:** Docker, CI/CD, AWS, Nexus, Vercel
+- **Tools:** Git, Jest, Postman, Auth0, NewRelic
+- **Architecture:** Microservices, REST APIs, Event-Driven Design
+- **Project Management:** Scrum, Kanban
+- **AI:** AI Development Tools, AI-Assisted Programming
+
 ## Featured Projects
 
 ### 🛍️ NexusTech Marketplace
@@ -103,44 +180,6 @@ A versatile command-line application for managing notes, featuring:
 More info at the project
 
 **Tech Stack:** Node.js, JavaScript
-
-## Professional Experience
-
-### Eron International
-
-**Corporate Website** | [Website](https://eroninternational.com/)
-
-Eron is a fintech company that provides an end-to-end solution for billing and payment processes. As a Senior Developer, I'm accustomed to being part of the entire ticket flow, from its creation and discussions with Product Owners through development to deployment. I'm part of the credit card team, where I develop features related to this payment method, such as installment configurations, anticipation fees, and user data management across different projects.
-Our work spans across three main projects:
-• The Control Panel for our clients, where they can view all payment-related data from their users and set different configurations
-• The Admin Panel for internal use, where we can manage all our clients and set various configurations
-• The Payment Gateway, which is the platform where end users make their payments I've also created SDKs to enable seamless client integration with the payment gateway, and developed component libraries to enhance efficiency and consistency across projects.
-
-### Merov Marketplace
-
-**Multi-currency Marketplace** | [Website](https://market.merov.io/)
-
-Merov is a multi-currency marketplace specializing in crypto mining equipment, with cryptocurrency as the primary payment method. I was one of two developers in the founding team, responsible for developing the first version of both the marketplace and admin control panel. Our tech stack included Next.js with TypeScript, Redux for state management, styled-components for styling, Storybook for component documentation, and Jest for unit testing. We implemented Auth0 for user authentication.
-As the platform grew, so did our team, and my role evolved into a full-stack position. In this capacity, I worked on developing a ticketing system, building both the frontend and backend components. The backend was built using NestJS, with Prisma as our ORM, and MySQL as our database.
-As one of the earliest members of the startup, my responsibilities extended beyond traditional development. Since we operated without a dedicated UX/UI team initially, we were responsible for designing and implementing user interfaces from scratch. This experience enhanced my understanding of user experience principles and allowed me to develop creative problem-solving skills in interface design.
-
-### Goldfarb Marketplace
-
-**E-commerce Development** | [Website](https://www.goldfarb.com.uy/)
-
-Contributed to the development of various features for this established e-commerce platform.
-Goldfarb is a marketplace for work tools. I developed a flexible promotion system using encapsulated and reusable components, facilitating easy addition of new promotion types. Additionally, I contributed to bug fixing and overall marketplace improvement.
-
-## Technical Skills
-
-- **Frontend:** React, Next.js, TypeScript, Vite, Styled Components, Tailwind CSS, Storybook, Redux, Zustand, GraphQL
-- **Backend:** Node.js, Express, NestJS, Prisma, GraphQL
-- **Databases:** MySQL, MongoDB, PostgreSQL
-- **DevOps:** Docker, CI/CD, AWS, Nexus, Vercel
-- **Tools:** Git, Jest, Postman, Auth0, NewRelic
-- **Architecture:** Microservices, REST APIs, Event-Driven Design
-- **Project Management:** Scrum, Kanban
-- **AI:** AI Development Tools, AI-Assisted Programming
 
 ## Contact
 
