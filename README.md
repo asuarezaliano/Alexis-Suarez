@@ -2,11 +2,12 @@
 
 ## About Me
 
-I started in the world of programming nearly 11 years ago when I began studying Computer Engineering. I'm more
-oriented to the frontend, but in most of my jobs I'm also part of the backend development. I’m a self-taught,
-responsible, and hardworking professional who is constantly learning. Recently, I've been particularly focused on
-emerging technologies, especially AI, which has enhanced my productivity as a developer and opened new paths for
-growth. This expertise allows me to quickly develop complex features with high efficiency.
+I started in the world of programming nearly 11 years ago when I began studying Computer Engineering. I'm a self-
+taught, responsible, and hardworking professional who is constantly learning. Recently, I've been particularly focused
+on emerging technologies, especially AI, which has enhanced my productivity as a developer and opened new paths
+for growth. This expertise allows me to quickly develop complex features with high efficiency. I have extensive
+experience working with startups and I'm specifically focused on the fintech sector and cryptocurrency projects as
+well.
 
 ## Professional Experience
 
