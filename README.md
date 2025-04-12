@@ -2,12 +2,7 @@
 
 ## About Me
 
-I started in the world of programming nearly 11 years ago when I began studying Computer Engineering. I'm a self-
-taught, responsible, and hardworking professional who is constantly learning. Recently, I've been particularly focused
-on emerging technologies, especially AI, which has enhanced my productivity as a developer and opened new paths
-for growth. This expertise allows me to quickly develop complex features with high efficiency. I have extensive
-experience working with startups and I'm specifically focused on the fintech sector and cryptocurrency projects as
-well.
+Sr. Full Stack Developer who began programming 11 years ago when I started studying Software Engineering. I specialize in JavaScript technologies throughout the entire development stack. I have extensive experience in the fintech sector, cryptocurrencies, and startups, areas where I aim to continue developing my professional career. Passionate about creating innovative technological solutions that generate positive impact in the industry.
 
 ## Professional Experience
 
@@ -17,10 +12,8 @@ well.
 
 SR FULLSTACK 
 
-Eron is a fintech company that provides an end-to-end solution for billing and payment processes.As a Senior Developer at Eron, I specialize in payment solutions and lead the credit card team, developing key features
-for payment processing and creating SDKs for gateway integration.
+As a Senior Developer at D24, I specialize in payment solutions and lead the credit card team, developing key features for payment processing and creating SDKs for gateway integration.
 Currently, I lead two strategic fintech initiatives as the principal full-stack developer:
-
 Cryptocurrency On/Off-Ramp Solution
 • Leading development of fiat-to-crypto and crypto-to-fiat conversion system integrated with third-party financial APIs
 • Building secure transaction workflows with compliance checks and user interfaces for transaction management
@@ -31,8 +24,9 @@ Secure Wallet Management System
 • Architecting virtual wallet infrastructure for client asset management with internal transaction engine
 • Integrating with third-party custody APIs while maintaining independent transaction records in our database
 • Implementing JWT/Passport authentication and configuring AWS infrastructure (EC2, RDS) with VPN connectivity
-• Developing real-time balance reconciliation
+• Developing real-time balance reconciliation 
 • Creating administrative interfaces for customer support and transaction management
+
 
 ### Merov Marketplace
 
@@ -40,24 +34,16 @@ Secure Wallet Management System
 
 SEMI SR FULL STACK
 
-Merov is a multi-currency marketplace where I work as a full-stack developer. I developed the first version of the web
-platform and backoffice, contributing significantly to both frontend and backend architecture.
-Frontend Development
+Merov is a multi-currency marketplace where I work as a full-stack developer. I developed the first version of the web platform and backoffice, contributing significantly to both frontend and backend architecture.
+
+Frontend Development 
 I designed and implemented critical user interface components including:
 - Responsive product listing pages with advanced filtering and sorting capabilities
 - Detailed product views with multi-currency pricing display
 - Authentication middleware to verify user sessions and manage protected routes
 - Comprehensive user profile dashboards with transaction history and account management
 - Shopping cart and checkout flow with real-time currency conversion
-  
-Backoffice
-- Centralized dashboard with critical business metrics and KPIs
-- User management interface with detailed customer activity visualizations
-- Sales analytics panels with real-time data across multiple currencies
-- Order tracking system with status monitoring and management tools
-- Custom reporting tools allowing administrators to generate insights on merchant performance
-- Role-based interface that adapts displayed information based on admin permissions
-  
+
 Backend Architecture
 I participated in building a robust backend infrastructure through:
 - Microservices architecture using NATS for service-to-service communication
